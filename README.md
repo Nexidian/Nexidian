@@ -1,4 +1,4 @@
-# 💼 Technical Lead Portfolio - Finance Sector
+# 💼 Technical Lead - Finance Sector
 
 Welcome to my GitHub portfolio! I’m a seasoned **Technical Lead** with extensive experience in software development and engineering, especially within the **finance sector**. My passion lies in building scalable, optimized, and robust solutions to tackle challenging problems in high-performance environments. 
 
