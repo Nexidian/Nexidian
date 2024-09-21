@@ -1,6 +1,6 @@
 # 💼 Technical Lead Portfolio - Finance Sector
 
-Welcome to my GitLab portfolio! I’m a seasoned **Technical Lead** with extensive experience in software development and engineering, especially within the **finance sector**. My passion lies in building scalable, optimized, and robust solutions to tackle challenging problems in high-performance environments. 
+Welcome to my GitHub portfolio! I’m a seasoned **Technical Lead** with extensive experience in software development and engineering, especially within the **finance sector**. My passion lies in building scalable, optimized, and robust solutions to tackle challenging problems in high-performance environments. 
 
 ---
 
@@ -14,8 +14,6 @@ Welcome to my GitLab portfolio! I’m a seasoned **Technical Lead** with extensi
 
 ### Additional Programming Knowledge
 - **C/C++**: Experience in building optimized low-level systems
-
----
 
 ## 🏗️ **DevOps & Cloud Infrastructure**
 I have a strong command of modern **DevOps** practices and workflows, with a focus on automating deployments and enhancing CI/CD pipelines. Some key technologies include:
